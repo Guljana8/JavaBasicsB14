@@ -10,7 +10,7 @@ public abstract class Animal {
 
         public void main(String[] args) {
             //Animal animal=new Animal() ;
-            //  aniaml.eat();
+            //  animal.eat();
             // Break till 11:50
 
         }
