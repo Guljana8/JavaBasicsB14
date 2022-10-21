@@ -5,4 +5,4 @@ Why we should Override a method:
     methods, but we don't like 2 of them we want to provide implementation in a different way. We can use method overriding.
     to override those methods.
 what is the syntax to override a method:
-    we simply redefine the method in the child class.
+    we simply redefine the method in the child class .
