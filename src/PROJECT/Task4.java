@@ -72,7 +72,7 @@ class SafariDriver implements RemoteWebDriver {
     String title = "Safari";
     @Override
     public void open() {
-        System.out.println("open the Safari");
+        System.out.println("open the "+title);
     }
     @Override
     public void close() {
