@@ -1,0 +1,7 @@
+-How to Exclude packages:
+Double-click the shift button twice quickly and type exclude.
+
+- Why we should exclude packages and class from compiling:
+In Intellij if we have a syntax error in any of the file in a project we can't run another file unless and
+until we  fix that error. Sometimes we want to execute code in some files without fixing those issues this is where
+we should

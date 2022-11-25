@@ -10,7 +10,7 @@ public class IteratorDemo2 {
         beautyProducts.add("Base");
         beautyProducts.add("Based");
 
-/*        beautyProducts.add("Mascara");
+/*      beautyProducts.add("Mascara");
         beautyProducts.add("lipstick");
         beautyProducts.add("Dove Soap");
         beautyProducts.add("Conditioner");
@@ -18,7 +18,7 @@ public class IteratorDemo2 {
         beautyProducts.add("shampoo");
         beautyProducts.add("lotion");
         beautyProducts.add("concealer");
-         beautyProducts.add("eyeLinear");*/
+        beautyProducts.add("eyeLinear");*/
 
         Iterator<String> iterator=beautyProducts.iterator();
         System.out.println(beautyProducts.size());

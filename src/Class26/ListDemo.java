@@ -1,2 +1,4 @@
-package Class26;public class ListDemo {
+package Class26;
+
+public class ListDemo {
 }

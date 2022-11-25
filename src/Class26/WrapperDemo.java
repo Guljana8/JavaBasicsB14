@@ -1,2 +1,11 @@
-package Class26;public class WrapperDemo {
+package Class26;
+
+public class WrapperDemo {
+    public static void main(String[] args) {
+        String num="10";
+        int number=Integer.parseInt(num);//=> parseInt will convert String to int
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Double.MAX_VALUE);
+        System.out.println();
+    }
 }

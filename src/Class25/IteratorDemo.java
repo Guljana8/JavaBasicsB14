@@ -25,7 +25,7 @@ public class IteratorDemo {
         iterator.next();
         System.out.println(iterator.next());*/
 
-        //break till 2:01
+
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }

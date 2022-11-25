@@ -1,2 +1,4 @@
-package Class29;public class Review1 {
+package Class29;
+
+public class Review1 {
 }

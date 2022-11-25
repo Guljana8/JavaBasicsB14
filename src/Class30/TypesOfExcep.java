@@ -25,7 +25,7 @@ public class TypesOfExcep {
 
         try {
             System.out.println(ExcelReader.read("/Users/apple/IdeaProjects/SDETBatch14Java/Data/Test.xlsx"));
-        } catch (IOException e) {
+        //} catch (IOException e) {
             System.out.println("Josh can you please stop deleting my files");
         }catch (NullPointerException e){
 

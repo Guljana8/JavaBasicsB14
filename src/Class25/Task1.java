@@ -15,12 +15,7 @@ public class Task1 {
     word.add("Haunted House");
     word.add("Witch");
 
-        Iterator<String> iterator=word.iterator();
-        while(iterator.hasNext()) {
-            if(iterator.next().endsWith("e")){
-
-            }
-        }
+        word.removeIf(x -> x.endsWith("e"));
         System.out.println(word);
 
     }
