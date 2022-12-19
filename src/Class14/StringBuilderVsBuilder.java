@@ -15,6 +15,4 @@ public class StringBuilderVsBuilder {
         String newStr=stringBuilder1.toString();
 
     }
-
-
-    }
+}
